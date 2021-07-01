@@ -17,7 +17,7 @@ Faça um fork do projeto para um repositório publico do seu Github.
 
 No repositório contém o arquivo DataAnalytics_test.ipynb que contém todas as questões a serem resolvidas, teóricas e práticas, siga todos os passos do arquivo.
 
-Depois de todos os passos do teste realizado envie o link para o contato do RH para que possa ser avaliado (*rh@stitdata.com*).
+Depois de todos os passos do teste realizado envie o link para o contato do RH para que possa ser avaliado (rh@stitcloud.com).
 
 
 
